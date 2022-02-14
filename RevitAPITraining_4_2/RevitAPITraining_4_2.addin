@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPITraining_4_2.dll"</Assembly>		
+		<AddInId>4B74F47B-CEE7-4819-99A3-8DA42674A6B6</AddInId>
+		<FullClassName>RevitAPITraining_4_2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>4-2 Вывод значений труб</Text>
+	</AddIn>
+</RevitAddIns>
